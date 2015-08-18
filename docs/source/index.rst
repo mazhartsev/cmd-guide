@@ -13,8 +13,14 @@
 
    preface
    cmd
+   commands
+   environment-variable
+   reg-cmd
+   systeminfo
    csptest
    certutil
+   cmd-faq
+   cert-utilities
    bibliography
 
 * :ref:`genindex`
